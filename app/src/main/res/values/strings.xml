@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LearningAPI</string>
+
+    <string name="curr_name">Android Coin</string>
+    <string name="curr_price">Price: 0.00</string>
+    <string name="curr_rank">0</string>
+    <string name="currency_icon_description">Currency Icon</string>
+
+</resources>
